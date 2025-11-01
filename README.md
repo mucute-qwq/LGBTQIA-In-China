@@ -289,7 +289,7 @@
 |在跨性别青少年门诊，目睹中国家庭的撕裂|真实故事计划（公众号）|[原文链接](https://mp.weixin.qq.com/s/B98WfvjXm55WX2so4zpYSw)|[备份链接](/post/在跨性别青少年门诊，目睹中国家庭的撕裂.md)|[ArchiveToday](https://archive.ph/GRNjp)|
 |我们无法也不需要为自己早就有的性别认同和性取向做任何解释。| [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo) |[原文链接](https://www.xiaozonglin.cn/show-respect-for-difference/)| | [WebArchive](https://web.archive.org/web/20231224004147/https://www.xiaozonglin.cn/show-respect-for-difference/)|
 |我有一个同学 | [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo)|[原文链接](https://www.xiaozonglin.cn/I-have-a-classmate/) | | [WebArchive](https://web.archive.org/web/20240815143615/https://www.xiaozonglin.cn/I-have-a-classmate/) |
-|每个人心中的洛神|[一剪沐橙](https://github.com/mucute-qwq)|[原文链接](https://mucute-qwq.github.io/2025/09/23/the-luo-in-hearts)|[备份链接](/post/每个人心中的洛神.md)|[WebArchive](https://web.archive.org/web/20250923114924/https://mucute-qwq.github.io/2025/09/23/the-luo-in-hearts)|
+|每个人心中的洛神|[一剪沐橙](https://github.com/mucute-qwq)|[原文链接](https://mucute-qwq.github.io/posts/the-luo-in-hearts/)|[备份链接](/post/每个人心中的洛神.md)|[WebArchive](https://web.archive.org/web/20251101083519/https://mucute-qwq.github.io/posts/the-luo-in-hearts/)|
 
 
 ## 构建者
